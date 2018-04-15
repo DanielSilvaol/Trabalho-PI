@@ -1,4 +1,4 @@
-package Dao;
+package br.edu.saojudas.pi.dao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

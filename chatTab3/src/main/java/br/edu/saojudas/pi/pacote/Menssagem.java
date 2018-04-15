@@ -1,4 +1,4 @@
-package pacote;
+package br.edu.saojudas.pi.pacote;
 
 public class Menssagem {
 	private int id;
